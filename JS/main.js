@@ -8,4 +8,3 @@ function FizzBuzz(counter, fizz, buzz){
 }
 
 
-console.log(testSomething(5,4));
