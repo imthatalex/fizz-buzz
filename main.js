@@ -7,4 +7,14 @@ function FizzBuzz(counter, fizz, buzz){
     }
 }
 
+function OddEvenFizzBuzz(counter){
+    for(let i = 1; i < counter + 1; i++){
+        if(i % 2 == 0){
+            console.log(i + ' ' + 'Fizz');
+        }
+        else{
+            console.log(i + ' ' + 'Buzz');
+        }
+    }
+}
 
