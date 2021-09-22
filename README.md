@@ -1,3 +1,3 @@
-# How do you fizz buzz?
+# How do you Fizz Buzz?
 
 ## User Interface Coming Soon....
