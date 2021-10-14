@@ -1,5 +1,3 @@
-# How do you Fizz Buzz?
-
 ```javascript
 function fizzBuzz(counter, fizz, buzz){
     for(let i=1;i<counter+1;i++){
